@@ -41,12 +41,12 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>jfrog.io-snapshots</id>
-            <url>https://fidrepository.jfrog.io/fidrepository/libs-release/</url>
+            <id>fid-snapshots</id>
+            <url>https://fidrepository.jfrog.io/fidrepository/libs-snapshot/</url>
         </snapshotRepository>
         <repository>
-            <id>jfrog.io-releases</id>
-            <url>https://fidrepository.jfrog.io/fidrepository/libs-snapshot/</url>
+            <id>fid-releases</id>
+            <url>https://fidrepository.jfrog.io/fidrepository/libs-release/</url>
         </repository>
     </distributionManagement>
 
